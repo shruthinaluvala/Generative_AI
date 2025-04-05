@@ -1,0 +1,3 @@
+streamlit
+transformers
+model = genai.GenerativeModel('gemini-pro') # Or other suitable Gemini model
